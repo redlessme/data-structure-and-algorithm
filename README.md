@@ -1,3 +1,3 @@
-# data-structure-algorithm
+# data-structure-and-algorithm
 Theses code are my practice for data structure and algorithm, which include many classical algorithms and their applications. 
 
