@@ -1,0 +1,12 @@
+word: align
+frequency: 358
+definition: To adjust or form to a line; to range or form in line; to bring into line; to aline.
+word: adversary
+frequency: 157
+definition: One who is turned against another or others with a design to oppose
+word: advisory
+frequency: 720
+definition: Having power to advise; containing advice; as, an advisory council; their opinion is merely advisory.
+word: adventure
+frequency: 696
+definition: To try the chance; to take the risk.
